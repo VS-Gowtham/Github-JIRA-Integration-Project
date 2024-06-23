@@ -12,4 +12,4 @@ The END Goal of this Project is :
 >Which informs Github ,whenever a Developer/User writes any comment in issue tab on a particular issue it will send the information to the application which is deployed in EC2.
 >Then the Python application will make an API call to Jira for the creation of a "Backlog incident" regarding the issue.
 >Finally ,A Backlog Incident will be created in the Jira.
- :):)
+
