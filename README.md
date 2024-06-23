@@ -1,8 +1,8 @@
 # Github-JIRA-Intergration-Project
 Automated Github -JIRA intergration
 
-Source code is in Github and application has been deployed on a EC2 instance.
-Written API using FLASK Framework.
+>Source code is in Github and application is deployed on a EC2 instance.
+>Written API using FLASK Framework.
 
 The END Goal of this Project is :
 
